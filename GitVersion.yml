@@ -70,7 +70,7 @@ branches:
     label: PullRequest
     increment: Inherit
     prevent-increment:
-      of-merged-branch: true
+      of-merged-branch: false
       when-current-commit-tagged: false
     label-number-pattern: '[/-](?<number>\d+)'
     track-merge-message: true
