@@ -1,6 +1,6 @@
 {
   "name": "test_gitver",
-  "version": "0.0.0",
+  "version": "0.4.0-alpha.7",
   "main": "index.js",
   "repository": "https://github.com/PrestonII/test_gitver.git",
   "author": "Preston Smith <smith.preston2@gmail.com>",
