@@ -1,3 +1,3 @@
 # Push to 0.4.0, right?
 
-Should stay at 0.4.0 since we're on develop branch
+Should stay at 0.4.0 since we're on a feature branch being merged into develop
